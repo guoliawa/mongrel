@@ -15,3 +15,5 @@
 -define(TYPE_REF, '#type').
 
 -define(ID_REF, '#id').
+
+-type(record() :: tuple()).
